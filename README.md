@@ -16,7 +16,7 @@ Kelas : TI.22.A.1
  
 4. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
 
-#### Langkah - langkah praktikum
+### Langkah - langkah praktikum
 
 - Persiapan membuat dokumen HTML dengan nama file __lab3_list.html__ seperti berikut dan membuat __Ordered List__.
 
@@ -92,8 +92,11 @@ menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (sec
 
   ![Screenshot (304)](https://github.com/adeliadhea06/Lab3Web/assets/115794875/20df3121-3411-4c34-ab0f-25e9c133501e)
 
+- Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
 
-#### Pertanyaan dan Tugas
+  
+
+### Pertanyaan dan Tugas
 
 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
 

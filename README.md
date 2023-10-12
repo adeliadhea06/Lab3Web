@@ -92,11 +92,18 @@ menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (sec
 
   ![Screenshot (304)](https://github.com/adeliadhea06/Lab3Web/assets/115794875/20df3121-3411-4c34-ab0f-25e9c133501e)
 
-- Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
-
   
 
 ### Pertanyaan dan Tugas
 
 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
 
+   ![Screenshot (312)](https://github.com/adeliadhea06/Lab3Web/assets/115794875/42c875b8-891f-4135-9d7a-2270fbb30149)
+
+   ![Screenshot (313)](https://github.com/adeliadhea06/Lab3Web/assets/115794875/7617a319-c20a-462e-85be-bdabb06d2fad)
+
+   ![Screenshot (314)](https://github.com/adeliadhea06/Lab3Web/assets/115794875/1bdb3e51-f2af-4eca-a549-01cd97d3176a)
+
+
+
+### Sekian, Terima Kasih.
